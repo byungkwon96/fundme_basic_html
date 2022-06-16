@@ -1,3 +1,5 @@
+export const contractAddress = "0xek1039413204810234812309aabababababab"
+
 export const abi = [
     {
         inputs: [
